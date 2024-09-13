@@ -1,0 +1,46 @@
+/* Center everything on the page */
+body {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    margin-top: 50px;
+}
+
+/* Styling for the excerpt */
+.excerpt {
+    font-size: 18px;
+    margin: 20px auto;
+    width: 60%;
+    text-align: justify;
+}
+
+/* Specific styling for the highlighted parts */
+.orange {
+    color: orange;
+}
+
+.red {
+    color: red;
+    font-weight: bold;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+/* Styling for the image */
+img {
+    margin-top: 20px;
+}
+
+/* Styling for the link */
+a {
+    display: block;
+    margin-top: 20px;
+    font-size: 16px;
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
